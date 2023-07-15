@@ -1,0 +1,13 @@
+h3 {
+    color: white;
+    background-color: rgb(15, 154, 241);
+    width: 400px;
+    height: 25px;
+    padding: 20px 0 10px 0;
+    border-radius: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: whitesmoke;
+}
